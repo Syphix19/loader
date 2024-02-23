@@ -7,4 +7,8 @@ if placeId == 5233782396 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Syphix19/Create-a-Cart-Ride/main/Script"))()
  elseif placeId == 12242070418 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Syphix19/-1-fly-speed-every-second/main/Script"))()
+ elseif placeId == 4616247820 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Syphix19/NextReality-Games/main/Journey%20to%20the%20sun", true))()
+ elseif placeId == 14418473444 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Syphix19/NextReality-Games/main/Abyssal", true))()
  end 
